@@ -1,2 +1,2 @@
-# OdinProject5
-Calculator
+# Calculator
+OdinProject5
